@@ -1,6 +1,6 @@
 # ledger-co
 
-Ruby solution for https://www.geektrust.com/coding/detailed/the-ledger-co
+Ruby solution for https://www.geektrust.com/challenge/the-ledger-co
 
 # Steps to run
 
